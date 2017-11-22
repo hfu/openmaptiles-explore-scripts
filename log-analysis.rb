@@ -49,5 +49,8 @@ Dir.glob('/export/openmaptiles/*.log') {|path|
 		speed(l) if l.include?('/s | ')
 		hundred(l) if l.include?('100.0000%')
 	}
-	print Sequel.sqlite("/export/openmaptiles/#{area}.mbtiles")[:tiles].count.to_s + " tiles\n"
+	mb = "/export/openmaptiles/#{area}.mbtiles"
+	if File.exist?(mb)
+	  print Sequel.sqlite(mb)[:tiles].count.to_s + " tiles\n"
+  end
 }

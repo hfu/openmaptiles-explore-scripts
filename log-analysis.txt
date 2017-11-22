@@ -1,0 +1,105 @@
+congo-democratic-republic 2017-11-20T13:17:52+00:00 pbf 95MB
+Reading OSM data	58.641314912s
+Writing OSM data	2m38.445249301s
+Importing OSM data	3m33.330651538s
+Imposm	4m34.080708609s
+mapnik-tile-copy	1h 55m 50.047999999999774s
+351214 tiles
+min 0, max 53, count 69483
+
+egypt 2017-11-20T15:59:21+00:00 pbf 34MB
+Reading OSM data	23.848140159s
+Writing OSM data	43.443971089s
+Importing OSM data	1m19.100100256s
+Imposm	1m43.241533757s
+mapnik-tile-copy	14h 3m 38.50800000000163s
+3376525 tiles
+min 0, max 76, count 506182
+
+ethiopia 2017-11-21T14:22:27+00:00 pbf 34MB
+Reading OSM data	28.139055583s
+Writing OSM data	45.113877731s
+Importing OSM data	1m6.958231286s
+Imposm	1m35.38408679s
+mapnik-tile-copy	1h 9m 54.039999999999964s
+240375 tiles
+min 0, max 71, count 41938
+
+europe 2017-11-03T22:06:34+00:00 pbf 19GB
+Reading OSM data	1h33m2.199135791s
+Writing OSM data	36h50m15.091804848s
+Importing OSM data	71h25m3.176044602s
+Imposm	72h58m8.046605967s
+min 0, max 18, count 266269
+
+germany 2017-11-09T14:44:47+00:00 pbf 3GB
+Reading OSM data	16m10.11050315s
+Writing OSM data	3h0m0.080330009s
+Importing OSM data	5h51m39.214378718s
+Imposm	6h8m4.504253318s
+mapnik-tile-copy	1d 0h 18m 28.471000000005006s
+2814510 tiles
+min 0, max 108, count 875070
+
+guinea-bissau 28448 tiles
+min 0, max 0, count 0
+
+guinea 2017-11-21T15:59:09+00:00 pbf 48MB
+Reading OSM data	32.451884596s
+Writing OSM data	1m11.233974107s
+Importing OSM data	1m33.585946434s
+Imposm	2m6.394601724s
+mapnik-tile-copy	47m 2.605000000000018s
+181083 tiles
+min 0, max 65, count 28223
+
+hungary 2017-11-21T18:35:37+00:00 pbf 141MB
+Reading OSM data	58.793205167s
+Writing OSM data	3m43.824127875s
+Importing OSM data	5m19.066918039s
+Imposm	6m19.397905634s
+mapnik-tile-copy	1h 17m 47.88799999999992s
+289336 tiles
+min 0, max 62, count 46676
+
+madagascar Reading OSM data	35.58887109s
+Writing OSM data	49.857155725s
+Importing OSM data	1m11.302417446s
+Imposm	1m47.183380773s
+mapnik-tile-copy	1h 7m 7.166000000000167s
+272496 tiles
+min 0, max 72, count 40269
+
+north-america 2017-11-08T21:15:42+00:00 pbf 7GB
+Reading OSM data	44m22.426038202s
+Writing OSM data	3h4m37.966561603s
+Importing OSM data	7h8m24.853060308s
+Imposm	7h53m15.471247326s
+min 0, max 37, count 117749
+
+philippines Reading OSM data	1m53.632991796s
+Writing OSM data	6m37.059359024s
+Importing OSM data	9m38.411733052s
+Imposm	11m32.347215452s
+min 0, max 81, count 211086
+
+somalia Reading OSM data	13.687861856s
+Writing OSM data	16.792932751s
+Importing OSM data	21.000420139s
+Imposm	34.988536693s
+mapnik-tile-copy	3h 6m 24.13500000000022s
+759047 tiles
+min 0, max 74, count 111839
+
+south-america 2017-11-10T23:51:38+00:00 pbf 1GB
+Reading OSM data	7m0.60473754s
+Writing OSM data	30m55.29097925s
+Importing OSM data	40m18.384189609s
+Imposm	47m23.424140783s
+mapnik-tile-copy	7d 14h 34m 19.43599999998696s
+mapnik-tile-copy	7d 14h 34m 19.5339999999851s
+mapnik-tile-copy	7d 14h 34m 19.662000000011176s
+mapnik-tile-copy	7d 14h 34m 19.770000000018626s
+mapnik-tile-copy	7d 14h 34m 19.82999999995809s
+mapnik-tile-copy	7d 14h 34m 20.09699999995064s
+63277839 tiles
